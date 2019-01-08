@@ -20,7 +20,7 @@ class Nice
 		'Component'          => '/core/Component.php',
 		'CoreException'      => '/core/CoreException.php',
 		'DbException'        => '/core/CoreException.php',
-		'BizException'        => '/core/CoreException.php',
+		'BizException'       => '/core/CoreException.php',
 		'ObjectCreater'      => '/core/ObjectCreater.php',
 		'Request'            => '/core/Request.php',
 		'Event'              => '/core/Event.php',
